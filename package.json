@@ -2,7 +2,7 @@
     "name": "pokemon-app",
     "version": "0.1.0",
     "private": true,
-    "homepage": "http://yourusername.github.io/pokemon-app", 
+    "homepage": "https://github.com/JSCrompton/Pokemop-APP-test-site", 
     "dependencies": {
       "@ant-design/icons": "^4.6.2",
       "@reduxjs/toolkit": "^1.6.1",
